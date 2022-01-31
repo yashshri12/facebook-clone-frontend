@@ -1,0 +1,15 @@
+.rightside_container{
+
+}
+
+.rightside_contact{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 90px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.rightside_content{
+    margin-left: 80px;
+}
